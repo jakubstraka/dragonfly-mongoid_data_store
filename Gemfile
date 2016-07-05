@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'mongoid', git: 'https://github.com/mongodb/mongoid.git'
+
 # Specify your gem's dependencies in dragonfly-mongoid_data_store.gemspec
 gemspec
 
